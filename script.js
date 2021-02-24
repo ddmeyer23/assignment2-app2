@@ -36,7 +36,7 @@ require(["esri/config","esri/Map", "esri/views/MapView","esri/widgets/BasemapTog
   
   
   var view = new MapView({
-    map: webmap,
+    map: map,
     container: "viewDiv",
     zoom: 6,
     center: [-90.1994,38.6270]
