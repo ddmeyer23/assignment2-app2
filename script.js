@@ -22,7 +22,7 @@ require(["esri/config","esri/Map", "esri/views/MapView","esri/widgets/BasemapTog
   
   var symbol = {
     type: "simple-marker",
-    color: "green",
+    color: "orange",
     size: 2
   };
   
